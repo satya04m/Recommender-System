@@ -37,7 +37,3 @@ The **Recommender-System** project implements a robust recommendation engine for
   - **Push Docker Image**: Pushes the Docker image to a container registry.
   - **Deploy to Kubernetes**: Deploys the application to a Kubernetes cluster.
   - **Monitoring & Logging**: Set up Prometheus and Grafana for monitoring and logging the application’s performance.
-
-## Installation
-
-For installation steps and configuration details, refer to the [installation guide docs](./docs/installation.md).
