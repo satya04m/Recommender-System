@@ -4,7 +4,7 @@
 
 The **Recommender-System** project implements a robust recommendation engine for predicting user preferences. This project serves as a learning path for developing and deploying a recommender system using various data processing and machine learning techniques.
 
-![System-Architecture](./docs/assets/System-Architecture.png)
+![System-Architecture](./System-Architecture.png)
 
 ## Tech Stack
 
